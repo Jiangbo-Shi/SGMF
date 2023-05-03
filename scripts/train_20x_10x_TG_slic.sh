@@ -1,0 +1,21 @@
+export CUDA_VISIBLE_DEVICES=1
+python main.py \
+--seed 0 \
+--drop_out \
+--early_stopping \
+--lr 1e-5 \
+--k_start 2 \
+--k 5 \
+--label_frac 1 \
+--bag_loss ce \
+--task task_3_pt_staging_cls3 \
+--results_dir results/Yifuyuan_new \
+--exp_code task_3_pt_staging_20x_10x_SAMF_cls3_mp \
+--model_type patch_gcn \
+--mode graph \
+--log_data \
+--data_root_dir /home1/sjb/gastric_cancer/pt_staging/our_work_yfy/DATA_ROOT_DIR/Yifuyuan \
+--data_folder_s gastric_pt_staging_20x \
+--data_folder_l gastric_pt_staging_10x \
+--tg_file tissue_graph_files_slic \
+--split_dir /home1/sjb/gastric_cancer/pt_staging/our_work_SAMF/splits/Yifuyuan/task_3_pt_staging_cls3_100 \
