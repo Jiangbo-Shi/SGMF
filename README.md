@@ -16,10 +16,11 @@ We will update the dataset download link soon.
 
 ## Usage
 ### Pre-processing
+We will update this part soon.
 ### Training
-Run ````scripts/train_20x_10x_TG_slic.sh````
+Run ````scripts/train_20x_10x_TG_slic.sh````.
 ### Prediction
-Run ```scripts/eval_20x_10x_slic.sh```
+Run ```scripts/eval_20x_10x_slic.sh```.
 
 ## Citation
 If you find our work is helpful for your research, please consider to cite:
