@@ -8,3 +8,25 @@ Pathological primary tumor (pT) stage focuses on the infiltration degree of the 
 
 ## Case Study
 ![attention_result](https://github.com/Jiangbo-Shi/SGMF/assets/60539295/144b125b-93c8-4ac5-99a2-0d9610a2abf7)
+
+## Requirments
+
+## Datasets
+We will update the dataset download link soon.
+
+## Usage
+### Pre-processing
+### Training
+### Prediction
+
+## Citation
+If you find our work is helpful for your research, please consider to cite:
+```
+@article{shi2023pTstaging,
+  title={A Structure-aware Hierarchical Graph-based Multiple Instance Learning Framework for pT Staging in Histopathological Image},
+  author={Shi, Jiangbo and Tang, Lufei and Li, Yang and Zhang, Xianli and Gao, Zeyu and Zheng, Yefeng and Wang, Chunbao and Gong, Tieliang and Li, Chen},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2023},
+  publisher={IEEE}
+}
+```
