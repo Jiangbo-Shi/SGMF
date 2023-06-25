@@ -23,7 +23,7 @@ Run ````scripts/train_20x_10x_TG_slic.sh````.
 Run ```scripts/eval_20x_10x_slic.sh```.
 
 ## Citation
-If you find our work is helpful for your research, please consider to cite:
+If you find our work helpful for your research, please consider citing:
 ```
 @article{shi2023pTstaging,
   title={A Structure-aware Hierarchical Graph-based Multiple Instance Learning Framework for pT Staging in Histopathological Image},
