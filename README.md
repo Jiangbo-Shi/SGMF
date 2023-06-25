@@ -33,4 +33,4 @@ If you find our work is helpful for your research, please consider to cite:
 }
 ```
 ## Acknowledgement
-We have great thanks to [CLAM](https://github.com/mahmoodlab/CLAM) and [Patch_GCN](https://github.com/mahmoodlab/Patch-GCN).
+We have great thanks to the project of [CLAM](https://github.com/mahmoodlab/CLAM) and [Patch_GCN](https://github.com/mahmoodlab/Patch-GCN).
