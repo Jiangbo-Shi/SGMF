@@ -32,3 +32,5 @@ If you find our work is helpful for your research, please consider to cite:
   publisher={IEEE}
 }
 ```
+## Acknowledgement
+We have great thanks to [CLAM](https://github.com/mahmoodlab/CLAM) and [Patch_GCN](https://github.com/mahmoodlab/Patch-GCN).
