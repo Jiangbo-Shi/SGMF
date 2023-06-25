@@ -107,7 +107,7 @@ class SGMF(torch.nn.Module):
         batch_l = data_l.batch
         edge_attr_s = None
         edge_attr_l = None
-        centroid = tissue_data['centroid'] / 10.  # 缩小十倍
+        centroid = tissue_data['centroid'] / 10.
         centroid = centroid.round()
 
         # gcn for small scale
