@@ -9,14 +9,14 @@ Pathological primary tumor (pT) stage focuses on the infiltration degree of the 
 ## Case Study
 ![attention_result](https://github.com/Jiangbo-Shi/SGMF/assets/60539295/144b125b-93c8-4ac5-99a2-0d9610a2abf7)
 
-## Requirments
+<!--## Requirments
 
 ## Datasets
 We will update the dataset download link soon.
 
 ## Usage
 ### Pre-processing
-We will update this part soon.
+We will update this part soon.-->
 ### Training
 Run ````scripts/train_20x_10x_TG_slic.sh````.
 ### Prediction
